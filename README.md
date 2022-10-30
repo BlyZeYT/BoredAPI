@@ -1,5 +1,8 @@
 # BoredAPI
 Library for the Bored API(No API Key needed)
+
+> 🟡 **Project status**: maintenance mode<sup>[[?]](https://github.com/BlyZeYT/.github/blob/master/project-status.md)</sup>
+
 ## How to use
 ### Create a new instance of the BoredClient
 ```
